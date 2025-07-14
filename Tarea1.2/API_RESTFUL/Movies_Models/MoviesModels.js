@@ -1,5 +1,4 @@
-import Productos from "../Base_Datos/DB.json" with {type:"json"}
-import {readFile, writeFile} from "node:fs/promises"
+
 import pool from "../config_BDdelInge/DB-Mysql.js"
 
 
